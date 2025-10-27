@@ -28,8 +28,8 @@ Our mission is to **empower enterprises and developers** with cutting-edge softw
 |---------|-------------|
 | [Cardano SDK](#) | Developer tooling & SDK for Cardano ecosystem |
 | [Wallet Extensions](#) | Secure wallet integration & extensions |
-| [PYC Tools](#) | Developer productivity tools |
-| [VSC Plugins](#) | Developer productivity tools |
+| [PYC Tools](https://github.com/AIQUANT-Tech/CardanoPyC) | Developer productivity tools |
+| [VSC Plugins](https://github.com/AIQUANT-Tech/CardanoVSC) | Developer productivity tools |
 
 ---
 
