@@ -45,8 +45,8 @@ We are always open to **collaboration, contributors, and innovators**.
 ## 📫 Connect With Us  
 
 - 🌍 Website: [aiquant.in](https://aiquant.in)  
-- 🐦 Twitter: [@AIQUANT](#)  
-- 💼 LinkedIn: [AIQUANT TECHNOLOGIES](#)  
+- 🐦 Twitter: [@AIQUANT](https://x.com/AiquantTech)  
+- 💼 LinkedIn: [AIQUANT TECHNOLOGIES](https://www.linkedin.com/company/aiquant)  
 - ✉️ Email: info@aiquant.in  
 
 ---
